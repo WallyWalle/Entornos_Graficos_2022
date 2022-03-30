@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Práctica Complementaria</title>
+</head>
+<body>
+    <h2>Ejercicio 2</h2>
+    <p>Dentro de los formatos encontramos los siguientes:
+        <ul>
+            <li>WAV, o WAVE. Es un formato de audio digital sin compresión de datos. Desarrollado por Microsoft e IBM.</li>
+            <li>MP3, formato de compresión de audio digital. Desarrollado por el Moving Picture Experts Group (MPEG).</li>
+            <li>AAC, o Advanced Audio Coding. Es un codec digital con perdida que se corresponde al estándar internacional “ISO/IEC 13818-7” como una extensión de MPEG-2. Es muy utilizado en dispositivos Apple.</li>
+            <li>Vorbis, codec digital con perdida, conseguida mediante la compresión de datos, y de formato abierto. El contenedor utilizado es Ogg. Desarrollador por Xiph.org</li>
+            <li>Opus, codec digital con pérdida, de formato abierto. El contenedor utilizado es Ogg. Está estandarizado por el Internet Engineering Task Force (IETF).</li>
+        </ul>
+    </p>
+    <p>
+        Este es un elemento de audio: <br>
+        <audio src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" controls></audio>
+    </p>
+    <h2>Ejercicio 3</h2>
+    <p>
+        En este momento los navegadores permiten mostrar formatos como el MP4, WebM y OGV.
+    </p>
+    <p>
+        Este es un elemento de Video: <br>
+        <video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" controls></video>
+    </p>
+    <h2>Ejercicio 4</h2>
+    <p>
+        Formulario con un campo requerido: <br>
+        <form action="#">
+            <input type="text" id="usuario" required> 
+            <br>
+            <input type="submit" value="Enviar">
+        </form>
+    </p>
+    <hr>
+    <p>
+        Formulario con un campo de tipo email: <br>
+        <form action="#">
+            <input type="email" id="email" required> 
+            <br>
+            <input type="submit" value="Enviar">
+        </form>
+    </p>
+    <hr>
+    <p>
+        Formulario con un campo de tipo fecha: <br>
+        <form action="#">
+            <input type="date" id="fecha" required> 
+            <br>
+            <input type="submit" value="Enviar">
+        </form>
+    </p>
+    <hr>
+    <p>
+        Formulario con un campo de tipo color:: <br>
+        <form action="#">
+            <input type="color" id="color" required> 
+            <br>
+            <input type="submit" value="Enviar">
+        </form>
+    </p>
+    <hr>
+    <p>
+        Formulario con un campo de tipo number con valores minimos y maximos permitidos: <br>
+        <form action="#">
+            <input type="number" id="number" min="1" max="99" required> 
+            <br>
+            <input type="submit" value="Enviar">
+        </form>
+    </p>
+</body>
+</html>
