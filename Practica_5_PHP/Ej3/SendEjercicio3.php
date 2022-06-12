@@ -1,5 +1,5 @@
 <?php
-    $destino="fedenavos@gmail.com";
+    $destino="augustolope99@gmail.com";
     $asunto="Su amigo le esta recomendando un sitio";
     $desde='From:' .$_POST['email'];
     $cuerpo= "
