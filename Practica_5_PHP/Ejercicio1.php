@@ -1,5 +1,5 @@
 <?php 
-    $destinatario = "fedenavos@gmail.com ";
+    $destinatario = "augustolope99@gmail.com ";
     $asunto = "Ejercicio 1 - Enviar email con HTML";
     $cuerpo = ' 
     <html> 
