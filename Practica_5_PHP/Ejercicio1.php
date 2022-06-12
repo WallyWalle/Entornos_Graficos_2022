@@ -11,6 +11,7 @@
         <h2>Ejercicio 1</h2> 
         <p> 
         <b>Esto es parte del Ejercicio 1 de la práctica 5 de PHP</b>
+        </p>
     </body> 
     </html> 
     '; 
