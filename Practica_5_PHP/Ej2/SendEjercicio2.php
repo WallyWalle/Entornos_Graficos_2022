@@ -1,7 +1,7 @@
 <?php
     $fecha=date("d-m-Y");
     $hora= date("H :i:s");
-    $destino="fedenavos@gmail.com";
+    $destino="augustolope99@gmail.com";
     $asunto="Consulta en su página";
     $desde='From:' .$_POST['email'];
     $cuerpo= "
