@@ -21,7 +21,7 @@
     <title>Ejercicio 4</title>
 </head>
 <body>
-    <h1>Federico Navós - Ejercicio 4 Práctica 7</h1>
+    <h1> Ejercicio 4 Práctica 7</h1>
     Confeccionar una página que simule ser la de un periódico. La misma debe permitir configurar qué
     tipo de titular deseamos que aparezca al visitarla, pudiendo ser:
     Noticia política, Noticia económica o Noticia deportiva.
