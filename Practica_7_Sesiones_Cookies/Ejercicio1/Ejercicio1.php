@@ -27,7 +27,7 @@
     ?>
 </head>
 <body>
-    <h1>Federico Navós - Ejercicio 1 Práctica 7</h1>
+    <h1>Ejercicio 1 Práctica 7</h1>
     Crear una página que puede configurarse con distintos estilos CSS. El usuario es quien decide qué
 aspecto desea que tenga la página, por medio de un formulario. Luego la página es capaz de
 recordar, entre los distintos accesos que realice el usuario, el aspecto que había elegido para
