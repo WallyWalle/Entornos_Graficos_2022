@@ -9,7 +9,7 @@
     $fila = mysqli_fetch_array($vResultado);
     if(mysqli_num_rows($vResultado) == 0) {
         echo("El mail ingresado no existe en la base<br>");
-        echo("<A href='Ejercicio6.php'>VOLVER AL INICIO</A>");
+        echo("<A href='Ejercicio6.html'>VOLVER AL INICIO</A>");
     } else {
         $_SESSION['nombre'] = $fila['nombre'];
 
